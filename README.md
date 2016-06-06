@@ -135,7 +135,7 @@ Article 10. Modalités de modification des statuts et de dissolution de l'associ
 ------------------------------------------------------------------------------------
 1. Les statuts de l'association, peuvent être modifiés par l'assemblée générale sur proposition du bureau directeur ou du dixième des membres de l'assemblée générale représentant au moins le dixième des voix.
 
-    L'assemblée générale ne peut modifier les statuts que si la moitié au moins de ses membres, représentant au moins la moitié des voix, sont présentes. Si ce quorum n'est pas atteint, l'assemblée est à nouveau convoquée sur le même ordre du jour, quinze jours au moins avant la date fixée pour la réunion. L'assemblée générale statut alors sans condition de quorum. Les statuts ne peuvent être modifiés qu'à la majorité des deux tiers des suffrages exprimés par les membres présents, représentant au moins les deux tiers des voix.
+  L'assemblée générale ne peut modifier les statuts que si la moitié au moins de ses membres, représentant au moins la moitié des voix, sont présentes. Si ce quorum n'est pas atteint, l'assemblée est à nouveau convoquée sur le même ordre du jour, quinze jours au moins avant la date fixée pour la réunion. L'assemblée générale statut alors sans condition de quorum. Les statuts ne peuvent être modifiés qu'à la majorité des deux tiers des suffrages exprimés par les membres présents, représentant au moins les deux tiers des voix.
 
 2. L'assemblée générale ne peut prononcer la dissolution du bureau que si elle est convoquée spécialement à cet effet et dans les conditions prévues pour la modification des statuts.
 En cas de dissolution du bureau, l'assemblée générale désigne un ou plusieurs commissaires chargés de la liquidation de ses biens.
